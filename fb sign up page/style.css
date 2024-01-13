@@ -1,0 +1,122 @@
+*{
+    padding: 0px;
+    box-sizing: border-box;
+    margin: 0px;
+   font-family: sans-serif;
+}
+
+
+
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: #4267B2;
+    height: 110px;
+    color: whitesmoke;
+}
+.header-input{
+    margin-right: 260px;
+    display: flex;
+    width: 200px;
+    font-weight: 100;
+
+}
+.password{
+    margin-top: 20px;
+    padding-bottom: 5px;
+}
+.e-mail{
+    margin-right: 20px;
+    margin-top: 20px;
+}
+.log-in{
+    padding-top: 40px;
+    padding-left: 9px;
+    color: whitesmoke;
+}
+.log-in-btn{
+    color: whitesmoke;
+    padding-left: 4px;
+    border-radius: 40px;
+}
+.logo{
+    margin-left: 50px;
+    margin-top: 30px;
+    
+}
+.log-in input{
+    padding-right: 5px;
+    padding-left: 7px;
+    background-color: #164fc2;
+    border: 2px solid #164fc2;
+}
+
+
+
+/* ############################################################################################################################################# */
+
+
+.left-content{
+    float: left;
+    font-size: medium;
+    margin-left: 100px;
+
+}
+.left-more p{
+    display: inline;
+}
+.left-more{
+    margin-top: 40px;
+}
+.right-content{
+    float: right;
+    font-size: medium;
+    margin-bottom: 30px;
+}
+.right-heading{
+    margin-right: 10px;
+    margin-top: 10px;
+    font-family: monospace;
+}
+.texta{
+    margin-top:20px ;
+    width:200px;
+    height: 30px;
+}
+.textb{
+    width: 200px;
+    height: 30px;
+}
+.right-content{
+   margin-left: 20px;
+    height: 200px;
+}
+.textc{
+    margin-top: 10px;
+    height: 30px;
+    width: 460px;
+}
+.right-content p{
+    display: inline;
+}
+a{
+    text-decoration: none;
+}
+.signup{
+    text-decoration: none;
+     padding-left: 30px;
+     padding-right: 30px;
+     padding-top: 10px;
+     padding-bottom: 10px;
+     margin-left: 20px;
+    
+    border-radius: 10px;
+    color: whitesmoke;
+    background-color: rgb(87, 179, 87);
+}
+.rgt-small{
+    font-size: smaller;
+}
+.right-content h3{
+    font-weight: 100;
+}
